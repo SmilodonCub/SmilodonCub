@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 😄 Pronouns: she/her  
-👾 I'm coding in R, Python & Matlab
+👾 I'm coding in R, Python & Matlab  
 🧠 I'm working on Visual/Cognitive Neuroscience   
 🦄🥷 I’m currently learning Data Science tools  
 👯 I’m looking to collaborate on open source STEM projects & Data Science for Good  
