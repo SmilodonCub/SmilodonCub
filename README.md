@@ -1,6 +1,6 @@
 # Bonnie Cooper, PhD
 
-## I'm a Visual Neuroscientist in NYCwith an eye on Data Science
+## I'm a Visual Neuroscientist in NYC with an eye on Data Science
 
 ### Hi there 👋
 😄 Pronouns: she/her  
