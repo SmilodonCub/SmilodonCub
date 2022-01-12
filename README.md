@@ -1,12 +1,13 @@
 # Bonnie Cooper, PhD
 
-## I'm a Visual Neuroscientist in NYC with an eye on Data Science
+## I'm a Data Scientist in NYC with a neuroscience background and strong interest in UX Research
 
 ### Hi there 👋
 😄 Pronouns: she/her  
 👾 I'm coding in R, Python & Matlab  
-🧠 I'm working on Visual/Cognitive Neuroscience   
-🦄🥷 I’m currently learning Data Science tools  
+🧠 I used to work on Visual/Cognitive Neuroscience   
+🦄🥷 I’m currently learning Data Science tools for NLP & Social Network Analysis 
+🤗 Transformers are a favorite of mine
 👯 I’m looking to collaborate on open source STEM projects & Data Science for Good   
 💬 Ask me about vision perception and eye-tracking  
 📫 How to reach me: https://www.linkedin.com/in/bonnie-cooper-ph-d/  
